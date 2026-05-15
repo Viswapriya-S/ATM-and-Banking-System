@@ -79,7 +79,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
-<img width="1038" height="715" alt="Screenshot 2026-05-13 100853" src="https://github.com/user-attachments/assets/f7750b84-bc5e-4a65-9d99-b5724583e052" />
+<img width="932" height="717" alt="Screenshot 2026-05-15 075929" src="https://github.com/user-attachments/assets/07e8ec41-72ba-4618-b883-8a8a56694086" />
 
 
 # PACKAGE DIAGRAM:
